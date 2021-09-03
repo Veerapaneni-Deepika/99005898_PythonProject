@@ -20,7 +20,7 @@ While reserving tickets, the user has to enter the number of tickets and the use
 | HL_01 | User shall be able to select one from the menu window | Technical | Implemented |
 | HL_02 | User shall be able to enter Booking window | Technical | Implemented |
 | HL_03 | User shall be able to enter PNR status checking window | Technical | Implemented |
-| HL_04 | Update the PNR number after Booking | Implemented |
+| HL_04 | Update the PNR number after Booking | Technical | Implemented |
 
 ## Low Level Requirements:
 | ID | Description | HLR ID | Status(Implemented/Future)|
