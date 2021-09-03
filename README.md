@@ -1,4 +1,20 @@
 # Ticket Booking System
 
-A Ticket Booking System is a simple console application, the user can access the system freely by just entering a certain keys. The user can add from and to location, view PNR status, and generate the total booked ticket. The system contains all the basic functionality in order to be fully operated and provide the customer needs.
 
+Build | Code Quality | Unit Testing | Git Inspector
+|---------|------------|-----------|----------------
+
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+
+## Contributors List and Summary
+
+PS No. |  Name   |    Features    |No Test Cases|Test Case Pass
+-------|---------|----------------|-------------|--------------
+303086 | V. Gnana Deepika | Ticket Booking System   | 3  | YES  
