@@ -24,8 +24,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install flake8 pytest
-        cd 3_Implementation
-        pip install -r requirements.txt
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
@@ -37,4 +35,4 @@ jobs:
         ls
         cd 3_Implementation
         ls
-        pytest test.py
+        pytest test_ticket_booking.py
