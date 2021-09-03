@@ -20,14 +20,14 @@ While reserving tickets, the user has to enter the number of tickets and the use
 | HL_01 | User shall be able to select one from the menu window | Technical | Implemented |
 | HL_02 | User shall be able to enter Booking window | Technical | Implemented |
 | HL_03 | User shall be able to enter PNR status checking window | Technical | Implemented |
-| HL_04 | Update the PSN number after Booking | Implemented |
+| HL_04 | Update the PNR number after Booking | Implemented |
 
 ## Low Level Requirements:
 | ID | Description | HLR ID | Status(Implemented/Future)|
 | --- | --- | --- | --- |
 | LR01 | From the menu the passenger must be able to select any one | HL_01 | Implemented |
 | LR02 | In the booking window the passenger must be able to enter source location, destination location and the privilege details | HR_02 | Implemented |
-| LR03 | After confirming whether to book the ticket or not, Conformation message has to be generated with PSN number | HR_02 | Implemented |
-| LR04 | Passenger must be able to enter PNR number after PSN status window appears | HR_03 | Implemented |
+| LR03 | After confirming whether to book the ticket or not, Conformation message has to be generated with PNR number | HR_02 | Implemented |
+| LR04 | Passenger must be able to enter PNR number after PNR status window appears | HR_03 | Implemented |
 | LR05 | Ticket information like the source location, destination location information along with distance, time need to be given| HR_03 | Implemented |
 | LR06 | The passenger must be able to come out of the window by pressing any key | HL_04 | Implemented |
