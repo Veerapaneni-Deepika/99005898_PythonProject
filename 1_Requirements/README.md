@@ -1,4 +1,6 @@
-# Ticket Booking System
+# Requirements
+
+## Introduction
 
 Ticket Reservation System project is written in Python. This system consists of basic function which includes reservation and to check pnr status.
 
@@ -12,6 +14,42 @@ While reserving tickets, the user has to enter the number of tickets and the use
 ## Applications:
 
 * This system can be used in flight management system and railway ticket booking system.
+
+## State Of Art:
+ ### Cost
+
+ Since the system uses only open source software, it is free of cost
+### Features with Time 
+
+| Time | Feature |
+| ----- | ----- |
+| Past |  Few years back ticket booking need to be done by either going to railway station or airport. |
+| Present | Nowdays most of the ticket booking is done online with the help of internet |
+| Future | Near future this system will be advanced and would be used by everyone |
+
+## SWOT Analysis:
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+This project can be used by any transportation modes. This system can also be used for booking any kind of tickets.
+
+## What:
+
+Basic ticket booking system which helps passenger to book and view PNR status easily within not time.
+
+## When:
+
+Whenever there is emergency of travelling and checking the status of the ticket and the amount that costs.
+
+## Where:
+
+In railway stations and airports.
+
+## How:
+
+In this project, we can do basic ticket booking task like booking the ticket from source location to destination location and view the PNR status of the ticket.
 
 ## High Level Requirements:
 
