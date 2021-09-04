@@ -18,3 +18,9 @@ Folder             | Description
 PS No. |  Name   |    Features    |No Test Cases|Test Case Pass
 -------|---------|----------------|-------------|--------------
 303086 | V. Gnana Deepika | Ticket Booking System   | 3  | YES  
+
+# Pylint Score
+![](https://github.com/Veerapaneni-Deepika/99005898_PythonProject/blob/main/5_Images/pylint.png)
+
+# Pytest Score
+![](https://github.com/Veerapaneni-Deepika/99005898_PythonProject/blob/main/5_Images/pytest.png)
